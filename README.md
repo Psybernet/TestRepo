@@ -1,9 +1,5 @@
-TestRepo
-===============
+# TestRepo
 
-This is only for testing
+A sandbox from July 2014, kept for history. I used it to learn Git and GitHub: commits, branches and pushes.
 
-v.1.00 - 7 July 2014
-
-- Why are you reading this?
-- This is testing only
+It holds no code. For current work, see my [profile](https://github.com/Psybernet).
