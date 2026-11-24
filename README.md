@@ -1,4 +1,4 @@
-TestResipositry
+TestRepo
 ===============
 
 This is only for testing
